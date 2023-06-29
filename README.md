@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I'm a student <br>Currently Learning React Js Framework
+I'm a student <br>Currently Learning Node.Js
 
 
 ## 🌐 Socials:
