@@ -1,6 +1,6 @@
 ### Hi there 👋
 # About Me:
-I'm a student <br>Currently Learning Node.Js
+I'm a student <br>Currently Learning MERN Stack
 
 
 # GitHub Stats:
