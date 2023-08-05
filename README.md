@@ -1,6 +1,6 @@
 ### Hi there 👋
 # About Me:
-I'm a student <br>Currently Learning MERN Stack
+I'm a student <br>Currently Learning Full Stack
 
 
 # GitHub Stats:
