@@ -1,6 +1,6 @@
 ### Hi there 👋
 # About Me:
-I'm a student <br>Currently Learning Kotlin 
+I'm a student <br>Currently Learning GO 
 
 
 # GitHub Stats:
