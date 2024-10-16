@@ -11,7 +11,7 @@
 
 </br>
 
-- 🔧 I’m currently working on  [ekan](https://github.com/kevinjuliow/e-kan)
+- 🔧 I’m currently working on  [e-kan](https://github.com/kevinjuliow/e-kan)
 - 💡 I’m interested in Backend and DevOps.
 - 📖 I’m currently learning Go.
 - ❄️ I’m looking to collaborate on Open Source Projects.
