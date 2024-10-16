@@ -5,7 +5,7 @@
 <p>- <i>I'm an undergraduate student, pursuing a degree in Informatics. My passion lies in software engineering, and I am dedicated to expanding my knowledge and skills in this field. To enhance my learning, I have completed several courses related to software development and programming. I am eager to apply my education and training to real-world projects and collaborate with experienced professionals in the industry. I am always open to new opportunities and connections within the tech community.
 </i></p>
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBiaHE3NWcxb2l1NGRlenp3eWJtYXVoMGc2eGFyN3dqYTB5ZGVrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" width="50%" align="right" />
 
 ## ⚡🙋‍♂️ About Me
 
@@ -55,11 +55,11 @@
 ## 📄📜 Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kevinjuliow&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav202"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinjuliow"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjuliow&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
 
   </td>
