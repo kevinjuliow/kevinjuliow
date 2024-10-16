@@ -11,11 +11,11 @@
 
 </br>
 
-- 🔧 I’m currently working on !(ekan)[https://github.com/kevinjuliow/e-kan]
+- 🔧 I’m currently working on  [ekan](https://github.com/kevinjuliow/e-kan)
 - 💡 I’m interested in Backend and DevOps.
 - 📖 I’m currently learning Go.
 - ❄️ I’m looking to collaborate on Open Source Projects.
-- 📫 How to reach me kevjuliow@gmail.com.
+- 📫 How to reach me ... kevjuliow@gmail.com
 
 <hr>
 
@@ -52,14 +52,12 @@
 </td>
     <td>
   
-## 📄📜 Stats
+## Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kevinjuliow&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kevinjuliow&theme=react&hide_border=true&include_all_commits=true&count_private=false" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinjuliow"/>
- </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjuliow&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjuliow&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
   </td>
