@@ -5,7 +5,7 @@
 <p>- <i>I'm an undergraduate student, pursuing a degree in Informatics. My passion lies in software engineering, and I am dedicated to expanding my knowledge and skills in this field. To enhance my learning, I have completed several courses related to software development and programming. I am eager to apply my education and training to real-world projects and collaborate with experienced professionals in the industry. I am always open to new opportunities and connections within the tech community.
 </i></p>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBiaHE3NWcxb2l1NGRlenp3eWJtYXVoMGc2eGFyN3dqYTB5ZGVrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" width="40%" align="right" />
+
 
 ## ⚡🙋‍♂️ About Me
 
