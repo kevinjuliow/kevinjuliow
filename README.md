@@ -12,7 +12,7 @@
 </br>
 
 - 💡 I’m interested in Backend and DevOps.
-- 📖 I’m currently learning Go.
+- 📖 I’m currently learning Docker.
 - ❄️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me ... kevjuliow@gmail.com
 
