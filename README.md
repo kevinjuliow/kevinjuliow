@@ -20,45 +20,8 @@
 
 </br>
 
-<table width="100%">
-
- <tr>
-    <td width="60%">
-     
-## 🛠️ Skills
-
-#### Languages
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)&nbsp;
-![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)&nbsp;
-
-#### Framework
-![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)&nbsp;
-![Gin](https://img.shields.io/badge/Gin-%23ffffff.svg?style=flat&logo=go&logoColor=blue)&nbsp;
-
-#### Database
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
-
-#### Tools and Technologies
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
-
-</td>
-    <td>
-  
-## Stats
-
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kevinjuliow&theme=react&hide_border=true&include_all_commits=true&count_private=false" />
  </br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjuliow&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-
-  </td>
- </tr>
-</table>
